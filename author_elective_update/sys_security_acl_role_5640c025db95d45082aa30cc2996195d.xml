@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 02:20:14</sys_created_on>
+        <sys_id>5640c025db95d45082aa30cc2996195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_0529_index_t_test_0609.x_snc_0529_index_t.test_0609_user</sys_name>
+        <sys_package display_value="0529 Index Test" source="x_snc_0529_index_t">7597e8cedb41581082aa30cc2996196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="0529 Index Test">7597e8cedb41581082aa30cc2996196a</sys_scope>
+        <sys_security_acl display_value="x_snc_0529_index_t_test_0609">1240c025db95d45082aa30cc2996193f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5640c025db95d45082aa30cc2996195d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 02:20:14</sys_updated_on>
+        <sys_user_role display_value="x_snc_0529_index_t.test_0609_user" name="x_snc_0529_index_t.test_0609_user">ca404025db95d45082aa30cc29961981</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="0529 Index Test">7597e8cedb41581082aa30cc2996196a</application>
+        <file_path/>
+        <instance_id>de2e72fcdb40c0909df22f17d4961984</instance_id>
+        <instance_name>emptsuzukiny1</instance_name>
+        <name>sys_security_acl_role_5640c025db95d45082aa30cc2996195d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-09 02:20:14</sys_created_on><sys_id>5640c025db95d45082aa30cc2996195d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_0529_index_t_test_0609.x_snc_0529_index_t.test_0609_user</sys_name><sys_package display_value="0529 Index Test" source="x_snc_0529_index_t">7597e8cedb41581082aa30cc2996196a</sys_package><sys_policy/><sys_scope display_value="0529 Index Test">7597e8cedb41581082aa30cc2996196a</sys_scope><sys_security_acl display_value="x_snc_0529_index_t_test_0609">1240c025db95d45082aa30cc2996193f</sys_security_acl><sys_update_name>sys_security_acl_role_5640c025db95d45082aa30cc2996195d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-09 02:20:14</sys_updated_on><sys_user_role display_value="x_snc_0529_index_t.test_0609_user" name="x_snc_0529_index_t.test_0609_user">ca404025db95d45082aa30cc29961981</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1976426200</payload_hash>
+        <record_name>x_snc_0529_index_t_test_0609.x_snc_0529_index_t.test_0609_user</record_name>
+        <reverted_from/>
+        <source>f997e8cedb41581082aa30cc2996196c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 02:20:14</sys_created_on>
+        <sys_id>5e40c025db95d45082aa30cc29961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17296e0ceca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 02:20:14</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>9640c025e395d450695c582ee335ff61</update_guid>
+        <update_guid_history>9640c025e395d450695c582ee335ff61:1976426200</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_0529_index_t_test_0609.x_snc_0529_index_t.test_0609_user">2d0284a5db95d45082aa30cc299619a4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 02:27:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>3981eba4383d4a329e9412621e29f2b1</sys_id>
+        <sys_metadata>5640c025db95d45082aa30cc2996195d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_0529_index_t_test_0609.x_snc_0529_index_t.test_0609_user</sys_name>
+        <sys_package display_value="0529 Index Test" source="x_snc_0529_index_t">7597e8cedb41581082aa30cc2996196a</sys_package>
+        <sys_parent display_value="">1240c025db95d45082aa30cc2996193f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="0529 Index Test">7597e8cedb41581082aa30cc2996196a</sys_scope>
+        <sys_scope_delete display_value="">b57f726a18a84430838d5b8acdd288f9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_5640c025db95d45082aa30cc2996195d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_5640c025db95d45082aa30cc2996195d">5e40c025db95d45082aa30cc29961961</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 02:27:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>str_01</col_name_string>
+        <index_col_name element="str_01" name="x_snc_0529_index_t_test_index">77f72082db81581082aa30cc29961917</index_col_name>
+        <logical_table_name>x_snc_0529_index_t_test_index</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-05-29 08:48:25</sys_created_on>
+        <sys_id>99afe4ca1bc5581078b775d8cd4bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_0529_index_t_test_index</sys_name>
+        <sys_package display_value="0529 Index Test" source="x_snc_0529_index_t">7597e8cedb41581082aa30cc2996196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="0529 Index Test">7597e8cedb41581082aa30cc2996196a</sys_scope>
+        <sys_update_name>sys_index_x_snc_0529_index_t_test_index_str_01</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-29 08:48:25</sys_updated_on>
+        <table display_value="Test Index" name="x_snc_0529_index_t_test_index">e3f7ec42db81581082aa30cc299619d4</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

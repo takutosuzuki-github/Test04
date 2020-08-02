@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="0710 Index Test" max_length="40" name="x_snc_0529_index_t_0710_index_test" type="collection">
+        <element label="Ref to user_non_unique" max_length="32" name="ref_to_user_non_unique" reference="sys_user" type="reference"/>
+        <element label="Ref to user_Unique" max_length="32" name="ref_to_user_unique" reference="sys_user" type="reference" unique="true"/>
+        <element label="String normal" max_length="111" name="string_normal" type="string"/>
+        <element label="Str 01" max_length="111" name="str_01" type="string" unique="true"/>
+        <index name="index">
+            <element name="ref_to_user_unique"/>
+        </index>
+        <index name="index2">
+            <element name="str_01"/>
+        </index>
+        <index name="index3">
+            <element name="ref_to_user_non_unique"/>
+        </index>
+    </element>
+</database>

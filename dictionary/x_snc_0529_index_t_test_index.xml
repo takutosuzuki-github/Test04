@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test Index" max_length="40" name="x_snc_0529_index_t_test_index" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="STR 01" max_length="200" name="str_01" type="string"/>
+        <element label="STR 02" max_length="200" name="str_02" type="string"/>
+        <element label="Test Col" max_length="200" name="test_col" type="string"/>
+        <index name="index">
+            <element name="str_02"/>
+        </index>
+        <index name="index2">
+            <element name="str_01"/>
+        </index>
+    </element>
+</database>

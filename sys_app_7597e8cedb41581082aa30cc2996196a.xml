@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>8e972c0adb41581082aa30cc29961900</logo>
+        <menu/>
+        <name>0529 Index Test</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_0529_index_t</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_snc_0529_index_t</source>
+        <store_correlation_id>REPOAPP0000002588</store_correlation_id>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 08:13:13</sys_created_on>
+        <sys_id>7597e8cedb41581082aa30cc2996196a</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 09:05:51</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.5</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>Index.png</file_name>
+        <hash>222eafe3c2d68d5a23adb97fd2fd109893a99a9b17a62163ecc7116dec4b35e6</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>383</size_bytes>
+        <size_compressed>288</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 08:13:14</sys_created_on>
+        <sys_id>8e972c0adb41581082aa30cc29961900</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-29 08:13:15</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>7597e8cedb41581082aa30cc2996196a</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Index.png" sys_id="8e972c0adb41581082aa30cc29961900">8e972c0adb41581082aa30cc29961900</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 08:13:14</sys_created_on>
+        <sys_id>ce972c0adb41581082aa30cc29961900</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLS4UCcyMEEJHU6V3UDKcbiIHcnhnXnZF4COSzpjr6ODAwb+7n/JLIC+ZwFHpHFDAx8h0GY8Xj+ihSgBhFPF8eQiri3NxfmHg4QcbjoM0XUqdnW2bEi7QND5KItwlNEZ4mXt+pdeHFqSVHqr9CT7lYfJtZ//XLSOnYdt5ZL6woB0UVOIR1cgYqEOW3hO+7a31su+/3nt/S6joeiz14+/73l8Z9VTVyrH4dE/G89//nZ3/jjv8TDbvfOeHb2QAQRxp/4wPVO8GbewXy9kkBF9l3B+85+Tj5/Oq1iykPRf6rEuwyJM+10aSUTv7H+3r3s9pnAQGPwdPVzWeeU0AQABHNJE38BAAA=</data>
+        <length>372</length>
+        <position>1</position>
+        <sys_attachment display_value="Index.png" sys_id="8e972c0adb41581082aa30cc29961900">8e972c0adb41581082aa30cc29961900</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 08:13:14</sys_created_on>
+        <sys_id>42972c0adb41581082aa30cc29961901</sys_id>
+    </sys_attachment_doc>
+</record_update>

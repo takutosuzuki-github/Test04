@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>com.glide.apps.include_my_deletes</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_0529_index_t.com.glide.apps.include_my_deletes</name>
+        <read_roles/>
+        <suffix>com.glide.apps.include_my_deletes</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-30 05:33:45</sys_created_on>
+        <sys_id>338c019adb05981082aa30cc29961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_0529_index_t.com.glide.apps.include_my_deletes</sys_name>
+        <sys_package display_value="0529 Index Test" source="x_snc_0529_index_t">7597e8cedb41581082aa30cc2996196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="0529 Index Test">7597e8cedb41581082aa30cc2996196a</sys_scope>
+        <sys_update_name>sys_properties_338c019adb05981082aa30cc29961918</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-30 05:33:45</sys_updated_on>
+        <type>boolean</type>
+        <value>false</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=338c019adb05981082aa30cc29961918"/>
+</record_update>
